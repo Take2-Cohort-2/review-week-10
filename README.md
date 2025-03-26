@@ -2,7 +2,7 @@
 
 ## Setup
 
-- Create your own `review-7` repository
+- Create your own `review-week-10` repository
 - Setup an `index.html`, a linked stylesheet named `index.css` and a linked JavaScript file named `index.js`
 
 ## Project Brief
